@@ -13,7 +13,7 @@ To start, you want to create a repository with your username as the name so it'l
 
 # Coloured Text
 
-You can use both `\color` or `\textcolor` for text colours, I find it best to use `\color` when using hexcodes. I highly recommend using https://encycolorpedia.com/ to gain hexcodes.
+You can use both `\color` or `\textcolor` for text colours, I find it best to use `\color` when using hexcodes. I highly recommend using https://encycolorpedia.com/ to find hexcodes.
 
 | Raw Code | Output |
 | --- | --- |
